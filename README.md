@@ -1,4 +1,11 @@
 # hitopia-test
+
+#use this project on laravel playground
+https://laravelplayground.com/#/
+
+#and add gist in it
+https://gist.github.com/FerdianDwiputra/7944f557de102195b670ffce03f5350e
+
 ## Balanced Brackets Function - Complexity Analysis
 
 ### Time Complexity
